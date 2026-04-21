@@ -1,3 +1,5 @@
 Welcome to AnswerXYZ. AnswerXYZ is made to answer maths problems on things like Sparx Maths.
 
-Please note that AnswerXYZ is in early development, so some questions may be answered wrong.
+Check out our offical website to see how to use this APP: https://sites.google.com/view/answerxyz/home
+
+Please note that AnswerXYZ is still in beta 1.1, so some questions may be answered wrong. We are hoping to make it answer questions for you at some point but it can not right now
